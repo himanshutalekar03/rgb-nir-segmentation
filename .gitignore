@@ -1,0 +1,11 @@
+# Ignore generated outputs
+sample/elbow_plots/
+sample/outputs_k/
+
+# Python cache
+__pycache__/
+*.pyc
+
+# Mac system file
+.DS_Store
+
